@@ -621,7 +621,7 @@ $("clearFilters").addEventListener("click",()=>{
 function faceSvg(diff){
  const files={"Easy Demon":"easy-demon.png","Medium Demon":"medium-demon.png","Hard Demon":"hard-demon.png","Insane Demon":"insane-demon.png","Extreme Demon":"extreme-demon.png"};
  const file=files[diff];
- return file?`<img src="/static/assets/${file}" alt="${esc(diff)} difficulty icon">`:`<span class="muted">Difficulty unavailable</span>`;
+ return file?`<img src="/assets/${file}" alt="${esc(diff)} difficulty icon">`:`<span class="muted">Difficulty unavailable</span>`;
 }
 
 function openDetails(id){
