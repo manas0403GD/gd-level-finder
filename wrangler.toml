@@ -5,4 +5,4 @@ pages_build_output_dir = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "gd-level-finder-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "99fac7ba-6fd2-4e0b-b3f6-8bab46b0ee82"
