@@ -1,0 +1,7 @@
+AREDL V2 API integration update
+
+- Uses the confirmed classic AREDL V2 endpoint:
+  https://api.aredl.net/v2/api/aredl/levels?exclude_legacy=false&exclude_pending=false&exclude_removed=false
+- Retains the existing Pointercrate integration.
+- AREDL listed/unlisted filter remains available.
+- AREPL platformer integration and its filter have been removed at the user's request. No other app features were intentionally changed.

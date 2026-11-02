@@ -1,0 +1,20 @@
+GD LEVEL FINDER — FULL DASHBOARD REDESIGN
+
+This build is based on the previous working customization + tag icon build.
+
+What's new:
+- Fixed desktop top bar with brand, synchronized global search, and database status.
+- Left navigation sidebar for Home, Level Browser, Collections, Compare, Profile, Progress, Customization, and Advanced Filters.
+- Mobile bottom navigation with all eight destinations.
+- Larger Geometry Dash-inspired neon-purple hero area.
+- Quick Discovery strip with clickable gamemode and gameplay SVG icon filters.
+- Community Favourites cards populated dynamically from the local database's enjoyment ratings (minimum 5 votes).
+- Refined level browser heading, spacing, cards, panels, borders, and responsive layout.
+
+Existing backend, SQLite database, filters, comparison, collections, profile, progress, and customization logic are retained.
+
+Validation:
+- JavaScript syntax check: PASS
+- Python backend syntax check: PASS
+- SVG icon definitions present: 20/20
+- Live browser/API testing: not performed in this environment.

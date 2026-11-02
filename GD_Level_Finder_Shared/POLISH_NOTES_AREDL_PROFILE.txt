@@ -1,0 +1,27 @@
+GD LEVEL FINDER — AREDL + PLAYER PROFILE/PROGRESS POLISH
+
+AREDL:
+- Requests now use browser-like Accept, language, User-Agent, Origin and Referer headers.
+- Retries the AREDL levels endpoint with and without trailing slash.
+- Failed empty list responses are not cached for 30 minutes.
+- Filter status now displays a concise, friendly 403 warning rather than dumping the full upstream error. Pointercrate and local filters remain usable when AREDL is unavailable.
+- Note: if AREDL actively blocks the server/network with 403, headers cannot guarantee access; a live request from the user's machine is still required to confirm whether the upstream restriction is resolved.
+
+Player Profile:
+- New player overview banner and database completion percentage.
+- More readable summary stats.
+- Hardest completion highlight with difficulty and GDDL tier.
+- Difficulty breakdown with counts and percentages.
+- Four collection summary tiles.
+
+Progress:
+- New progress overview banner and summary metrics.
+- Redesigned six-month completion chart.
+- Difficulty milestone breakdown.
+- Recent tracked completions list with dates.
+- Clear note explaining that completion dates are tracked when levels are added to Completed, and browser-local storage does not sync between devices.
+
+Validation:
+- JavaScript syntax: PASS
+- Python syntax: PASS
+- Live browser/API test: pending.

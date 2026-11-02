@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "Name": "Cube",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 2,
+    "Name": "Ship",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 3,
+    "Name": "Ball",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 4,
+    "Name": "UFO",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 5,
+    "Name": "Wave",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 6,
+    "Name": "Robot",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 7,
+    "Name": "Spider",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 20,
+    "Name": "Swing",
+    "Category": "Gamemode"
+  },
+  {
+    "ID": 8,
+    "Name": "Nerve Control",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 9,
+    "Name": "Memory",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 10,
+    "Name": "Learny",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 11,
+    "Name": "Duals",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 12,
+    "Name": "Chokepoints",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 13,
+    "Name": "High CPS",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 14,
+    "Name": "Timings",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 15,
+    "Name": "Flow",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 16,
+    "Name": "Overall",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 17,
+    "Name": "Gimmicky",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 18,
+    "Name": "Fast-Paced",
+    "Category": "Gameplay"
+  },
+  {
+    "ID": 19,
+    "Name": "Slow-Paced",
+    "Category": "Gameplay"
+  }
+]

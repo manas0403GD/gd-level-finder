@@ -1,0 +1,17 @@
+GD LEVEL FINDER — LEVEL CARDS & DETAIL POLISH
+
+Changes:
+- Top Rated Demons renamed from Community Favourites.
+- Featured demons now display as wide horizontal showcase cards.
+- Gameplay thumbnail occupies the right side with a diagonal edge, inspired by the supplied reference.
+- Added VIEW pill and level ID overlay to showcase thumbnails.
+- Added difficulty badges with difficulty-face images and distinct colour treatments.
+- Added GDDL tier badges to featured and regular level cards.
+- Removed duplicate difficulty-face overlay from regular cards.
+- Redesigned level detail modal with a large thumbnail hero, difficulty badge, prominent GDDL tier, organized information grid, classification chips, and clearer actions.
+- Preserved existing database, filters, compare, collections, profile, progress, and settings logic.
+
+Validation:
+- JavaScript syntax: PASS
+- Python backend syntax: PASS
+- Live browser testing: pending.
