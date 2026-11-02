@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gd-level-finder.pages.dev/sitemap.xml
